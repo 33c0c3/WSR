@@ -1,2 +1,1 @@
-# WSR
-Windows (Kernel) Security Research
+# Windows Security Research
